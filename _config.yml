@@ -35,10 +35,12 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: 主页介绍
+  - title: Burnish 博尼施科技
     url: http://burnish.cn
-  - title: Github
+  - title: Burnish Github
     url: https://github.com/BurnishTechCN
+  - title: Burnish web前端handbook
+    url: http://book.burnish.cn
 
 
 timeline:
