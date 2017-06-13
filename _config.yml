@@ -35,7 +35,7 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: 组内成员，Runforever 个人技术博客
+  - title: Runforever(成员) 个人技术博客
     url: http://blog.defcoding.com/
   - title: Burnish web前端handbook
     url: http://book.burnish.cn
